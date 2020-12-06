@@ -35,7 +35,7 @@
     typeOfQuery(input);
     try {
       const response = await fetch(
-        `http://api.openweathermap.org/data/2.5/weather?${searchTerm}&appid=49257f6591cfc3ed8daf0b5970d519cb&units=standard`,
+        `https://api.openweathermap.org/data/2.5/weather?${searchTerm}&appid=49257f6591cfc3ed8daf0b5970d519cb&units=standard`,
         { mode: 'cors' }
       );
       const data = await response.json();
