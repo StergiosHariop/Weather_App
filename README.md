@@ -3,6 +3,8 @@
 <b>Preview:</b>
 ![alt-text](https://github.com/StergiosHariop/Weather_App/blob/master/WeatherAppImage.png)
 
+https://www.theodinproject.com/courses/javascript/lessons/weather-app
+
 User can fetch weather from anywhere around the world using city names and zip codes
 (even using his own location!:) ).
 
