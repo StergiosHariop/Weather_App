@@ -5,8 +5,8 @@
 
 https://www.theodinproject.com/courses/javascript/lessons/weather-app
 
-User can fetch weather from anywhere around the world using city names and zip codes
-(even using his own location!:) ).
+User can fetch weather from anywhere around the world using city names and zip codes.
+Button to get weather based on users geolocation.
 
 - Async and Await used 
 - HTML Geolocation
